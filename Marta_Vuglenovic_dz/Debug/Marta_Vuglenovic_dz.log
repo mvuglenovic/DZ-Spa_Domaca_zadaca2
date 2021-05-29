@@ -1,0 +1,3 @@
+﻿  game_of_life.cpp
+C:\Users\Marija\Desktop\SPA-2-Domaca-zadaca-Marta_Vuglenovic\Marta_Vuglenovic_domaca_zadaca_02\Marta_Vuglenovic_dz\game_of_life.cpp(137,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Marta_Vuglenovic_dz.vcxproj -> C:\Users\Marija\Desktop\SPA-2-Domaca-zadaca-Marta_Vuglenovic\Marta_Vuglenovic_domaca_zadaca_02\Debug\Marta_Vuglenovic_dz.exe
